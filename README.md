@@ -1,4 +1,4 @@
-# moj-projekt
+# projekt quiz i bmi w vue-3
 
 cd moj-projekt
 

@@ -3,7 +3,7 @@
 
 
 
-## instalacja
+## uruchomienie
 
 ```sh
 cd moj-projekt

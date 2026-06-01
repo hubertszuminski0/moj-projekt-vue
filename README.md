@@ -21,8 +21,11 @@ npm run build
 
 ### testy 
 
-npm run test       
+npm run test  
+
 npm run test:run   
+
 npm run test:coverage
+
 npm run test:ui
 ```

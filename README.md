@@ -19,7 +19,7 @@ npm run build
 ```
 
 
-### testy 
+### testy obejmuja jedynie quiz
 
 npm run test  
 

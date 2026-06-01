@@ -21,7 +21,7 @@ npm run build
 
 ### testy 
 
-npm run test           # tryb watch – idealny w trakcie pisania
-npm run test:run       # jednorazowo (CI)
-npm run test:coverage  # z raportem pokrycia
-vitest --ui            #otwiera dashboard w przeglądarce
+npm run test          
+npm run test:run      
+npm run test:coverage 
+vitest --ui        

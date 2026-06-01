@@ -24,4 +24,4 @@ npm run build
 npm run test          
 npm run test:run      
 npm run test:coverage 
-vitest --ui        
+npm run test:ui

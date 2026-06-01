@@ -3,24 +3,28 @@
 cd moj-projekt
 
 
-## Project Setup
+## instalacja
 
 ```sh
 npm install
 ```
 
-### Compile and Hot-Reload for Development
+### uruchomienie
 
 ```sh
 npm run dev
 ```
 
-### Type-Check, Compile and Minify for Production
+### Type-Check
 
 ```sh
 npm run build
 ```
 
+
+### testy 
+
 npm run test           # tryb watch – idealny w trakcie pisania
 npm run test:run       # jednorazowo (CI)
 npm run test:coverage  # z raportem pokrycia
+vitest --ui            #otwiera dashboard w przeglądarce

@@ -1,21 +1,18 @@
 # projekt quiz i bmi w vue-3
 
-cd moj-projekt
+
 
 
 ## instalacja
 
 ```sh
-npm install
+cd moj-projekt
 ```
-
-### uruchomienie
 
 ```sh
 npm run dev
 ```
 
-### Type-Check
 
 ```sh
 npm run build
